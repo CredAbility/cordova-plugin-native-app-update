@@ -39,7 +39,7 @@
         <framework src="src/android/build.gradle" custom="true" type="gradleReference" />
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="AppUpdate">
-                <param name="android-package" value="com.kungfukingbetty.cordova.appupdate.CDVAppUpdate"/>
+                <param name="android-package" value="com.credability.cordova.appupdate.CDVAppUpdate"/>
             </feature>
         </config-file>
     </platform>

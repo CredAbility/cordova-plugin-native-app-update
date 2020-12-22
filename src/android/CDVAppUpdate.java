@@ -1,4 +1,4 @@
-package com.kungfukingbetty.cordova.appupdate;
+package com.credability.cordova.appupdate;
 
 import java.io.StringWriter;
 import java.io.PrintWriter;
